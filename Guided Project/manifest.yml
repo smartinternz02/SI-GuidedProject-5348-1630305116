@@ -1,0 +1,6 @@
+applications:
+
+  - name: Python Flask App ELBRE 2021-09-13
+    random-route: true
+    memory: 512M
+    disk_quota: 1.5G 
